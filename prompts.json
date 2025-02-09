@@ -1,0 +1,82 @@
+{
+    "Te": {
+      "Te-1": "I delegate and organize people to ensure tasks run smoothly.",
+      "Te-2": "I despise procrastination; once I know the task, I act quickly to finish it.",
+      "Te-3": "I value fairness and rely on rules and objectivity over feelings.",
+      "Te-4": "I often think out loud to sort through logic and decide what makes sense.",
+      "Te-5": "A tidy, structured environment helps me think clearly.",
+      "Te-6": "I prepare and make contingency plans to stay ready for emergencies.",
+      "Te-7": "I am decisive; I gather enough info to conclude and act quickly.",
+      "Te-8": "I plan vacations pragmatically, weighing costs and logistics for best value."
+    },
+    "Ti": {
+      "Ti-1": "I stay objective, detaching from emotions to analyze situations logically.",
+      "Ti-2": "I decide internally without explaining, so my choices may seem sudden.",
+      "Ti-3": "I question universal truths, preferring research and logic before accepting facts.",
+      "Ti-4": "I speak precisely, choosing words carefully to express exactly what I mean.",
+      "Ti-5": "I dislike being rushed and prefer to examine all data before deciding.",
+      "Ti-6": "I organize my thoughts in detailed, structured categories.",
+      "Ti-7": "I value independence and dislike rigid, illogical bureaucracies.",
+      "Ti-8": "I dissect each option critically, analyzing what’s right or wrong."
+    },
+    "Fe": {
+      "Fe-1": "I quickly sense acceptable behavior and adjust to meet others' needs.",
+      "Fe-2": "I am a peacemaker who avoids conflict by finding common ground.",
+      "Fe-3": "I sometimes neglect myself by focusing too much on others’ needs.",
+      "Fe-4": "I find it hard to criticize, worrying about hurting others' feelings.",
+      "Fe-5": "I discuss decisions with others to ensure they make sense and are positive.",
+      "Fe-6": "I base my life on strong values and consider how actions affect others.",
+      "Fe-7": "I easily empathize and absorb others’ emotions, often unconsciously.",
+      "Fe-8": "I plan events to include everyone’s ideas and promote group harmony."
+    },
+    "Fi": {
+      "Fi-1": "I value authenticity and strive to be true to myself, disliking fakeness.",
+      "Fi-2": "I rely on strong gut feelings about right and wrong; violating my values makes me uneasy.",
+      "Fi-3": "I keep my emotions private and share only with trusted people.",
+      "Fi-4": "I am individualistic, following my unique standards regardless of others' opinions.",
+      "Fi-5": "I avoid imposing my values on others; everyone has their own morals if they don't harm others.",
+      "Fi-6": "I may appear easygoing, but I have strong inner convictions that I always follow.",
+      "Fi-7": "I crave freedom and love exploring on my own terms, hating any form of control.",
+      "Fi-8": "I prioritize my own desires when planning, even if they differ from others'."
+    },
+    "Ne": {
+      "Ne-1": "I’m driven by possibilities, always asking what else is possible.",
+      "Ne-2": "I enjoy change and risks, finding routine boring and challenges stimulating.",
+      "Ne-3": "I often lose track of the present while envisioning future possibilities.",
+      "Ne-4": "I see connections between unrelated things, like a web where one change affects many.",
+      "Ne-5": "Brainstorming with others energizes and inspires me with fresh ideas.",
+      "Ne-6": "I reject conventional methods, always seeking novel, better ways to do things.",
+      "Ne-7": "I prefer abstract theories over practical tasks, treating my mind as an idea playground.",
+      "Ne-8": "I keep my options open, preferring flexible plans even for vacations."
+    },
+    "Ni": {
+      "Ni-1": "I’m driven by inner vision and sudden ‘aha’ insights that guide my actions.",
+      "Ni-2": "I enjoy deep, abstract conversations more than mundane small talk.",
+      "Ni-3": "I am independent and skeptical of authority, preferring novel, uncharted ideas.",
+      "Ni-4": "I question appearances and seek hidden meanings behind events.",
+      "Ni-5": "I need time to daydream and reflect, which often yields profound insights.",
+      "Ni-6": "I trust gut feelings and symbols as clues to a bigger picture beyond raw data.",
+      "Ni-7": "I enjoy strategizing for the future, planning step by step to realize my visions.",
+      "Ni-8": "I crave unique experiences and imagine unusual, one-of-a-kind vacations that excite me."
+    },
+    "Se": {
+      "Se-1": "I live in the moment, using available resources without worrying about past or future.",
+      "Se-2": "I notice details others miss, staying highly aware of my surroundings in real time.",
+      "Se-3": "I learn best by doing and exploring, as lengthy instructions bore me.",
+      "Se-4": "I believe actions speak louder than words, showing care through practical deeds.",
+      "Se-5": "I thrive on risk and adventure, jumping into challenges without overthinking.",
+      "Se-6": "I’m a free spirit who dislikes rigid commitments and keeps options open for new opportunities.",
+      "Se-7": "I fully immerse in sensory experiences—nature, concerts, new foods, and adventures excite me.",
+      "Se-8": "I choose leisure activities with rich variety in sights, sounds, and experiences."
+    },
+    "Si": {
+      "Si-1": "I compare current experiences with the past, easily spotting inconsistencies.",
+      "Si-2": "I love reliving favorite memories with vivid details and emotions.",
+      "Si-3": "I appreciate routines and structure, which make me feel relaxed and comfortable.",
+      "Si-4": "I learn fast from mistakes, using past lessons to guide future actions.",
+      "Si-5": "I recall significant people and moments in vivid detail, with rich memories.",
+      "Si-6": "I prefer systematic, orderly methods and dislike skipping steps.",
+      "Si-7": "I trust proven facts and methods, remaining skeptical of untested theories.",
+      "Si-8": "I plan new ventures based on past experiences and lessons learned."
+    }
+  }
